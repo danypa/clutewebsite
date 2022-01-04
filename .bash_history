@@ -222,3 +222,7 @@ sudo su
 update
 #1641317363
 yum update
+#1641324297
+git
+#1641324304
+git status
