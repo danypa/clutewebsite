@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ELEX WooCommerce Request a Quote\n"
+"POT-Creation-Date: 2021-08-13 14:11+0530\n"
+"PO-Revision-Date: 2021-08-13 14:11+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: class-elex-request-a-quote.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: class-elex-request-a-quote.php:48
+msgid ""
+"You already have the basic version of <strong>Elex WooCommerce Request a "
+"Quote</strong> installed. Please disable & remove the Basic Version before "
+"using Premium Version. For any issues, kindly contact our <a target='_blank' "
+"href='https://elextensions.com/support/'>support</a>."
+msgstr ""
+"Вече имате основната версия на <strong>Elex WooCommerce заявка за оферта</"
+"strong> инсталиран. Моля, деактивирайте \"\" \"Извадете базовата версия\", "
+"преди да използвате Premium Версия. За всякакви проблеми, моля свържете се с "
+"нашата <a target='_blank' href='https://elextensions.com/support/'>подкрепа</"
+"a>."
+
+#: class-elex-request-a-quote.php:103 includes/class-eraq-settings.php:240
+msgid "Quotes List"
+msgstr "Списък с оферти"
+
+#: class-elex-request-a-quote.php:114
+#: includes/elex-raq-send-notification-email.php:79
+msgid "Quote Received"
+msgstr "Получена оферта"
+
+#: class-elex-request-a-quote.php:132
+msgid "Settings"
+msgstr "Настройки"
+
+#: class-elex-request-a-quote.php:133
+msgid "Premium Upgrade"
+msgstr "Премиум ъпгрейд"
+
+#: class-elex-request-a-quote.php:134
+msgid "Support"
+msgstr "Поддръжка"
+
+#: class-elex-request-a-quote.php:152
+msgid ""
+"<strong>WooCommerce</strong> plugin must be active for <strong>Elex "
+"WooCommerce Request a Quote - Basic</strong> to work."
+msgstr ""
+"<strong>WooCommerce</strong> плъгин трябва да бъде активен за <strong>Elex "
+"WooCommerce искане оферта - Basic</strong> за работа."
+
+#: includes/class-eraq-button-handler.php:21
+msgid "Add to Quote"
+msgstr "Включи в офертата"
+
+#: includes/class-eraq-button-handler.php:82
+#: includes/class-eraq-button-handler.php:85
+#: includes/class-eraq-button-handler.php:91
+#: includes/class-eraq-button-handler.php:94
+#: includes/class-eraq-button-handler.php:108
+#: includes/class-eraq-button-handler.php:117
+msgid "View the quote list"
+msgstr "Преглед на списъка с оферти"
+
+#: includes/class-eraq-button-handler.php:111
+#: includes/class-eraq-button-handler.php:119
+msgid "Select Options"
+msgstr "Изберете Опции"
+
+#: includes/class-eraq-settings.php:74
+msgid "Request a Quote"
+msgstr "ЗАЯВКА ЗА ДОСТАВКА"
+
+#: includes/class-eraq-settings.php:81
+msgid "General"
+msgstr "Основни"
+
+#: includes/class-eraq-settings.php:82
+msgid "Form Settings"
+msgstr "Настройки на формуляра"
+
+#: includes/class-eraq-settings.php:83
+msgid "Notifications"
+msgstr "Известия"
+
+#: includes/class-eraq-settings.php:84 includes/class-eraq-settings.php:350
+msgid "Hide Add to Cart"
+msgstr "Скрии Добави в Количката"
+
+#: includes/class-eraq-settings.php:85
+msgid "<li><strong><font color=\"green\">Go Premium</font></strong></li>"
+msgstr "<li><strong><font color=\"green\">Премиум</font></strong></li>"
+
+#: includes/class-eraq-settings.php:177
+msgid "Add to Quote Button Text"
+msgstr "Добави към текст на бутон за оферта"
+
+#: includes/class-eraq-settings.php:179
+msgid "Add To Quote"
+msgstr "Включи в офертата"
+
+#: includes/class-eraq-settings.php:180
+msgid "Enter the text to be displayed on the Add To Quote button"
+msgstr "Въведете текста, който ще се показва на бутона \"Добавяне към оферта\""
+
+#: includes/class-eraq-settings.php:186
+msgid "Add to Quote Button Color"
+msgstr "Добави към цвят на бутон за оферта"
+
+#: includes/class-eraq-settings.php:189
+msgid "Choose the color of the Add To Quote button"
+msgstr "Изберете цвета на бутона \"Добави към оферта\""
+
+#: includes/class-eraq-settings.php:195
+msgid "Add to Quote Button Action"
+msgstr "Добави към действие на бутон за оферта"
+
+#: includes/class-eraq-settings.php:197
+msgid ""
+"Choose the action to be performed when the customer clicks on the add to "
+"quote button."
+msgstr ""
+"Изберете действието, което трябва да се изпълни, когато клиентът кликне "
+"върху бутона добавяне към оферта."
+
+#: includes/class-eraq-settings.php:200
+msgid "Open Request a Quote Page"
+msgstr "Отваряне на страница за оферта"
+
+#: includes/class-eraq-settings.php:201
+msgid "Open in a Lightbox"
+msgstr "Отваряне във формат \"лайтбокс\""
+
+#: includes/class-eraq-settings.php:208
+msgid "Lightbox Width (in px)"
+msgstr "Широчина на лайтбокса (в px)"
+
+#: includes/class-eraq-settings.php:210
+msgid "600"
+msgstr "600"
+
+#: includes/class-eraq-settings.php:211
+msgid "Enter Lightbox Width"
+msgstr "Въведете ширина на лентата за по-леката кутия"
+
+#: includes/class-eraq-settings.php:218
+msgid "Lightbox Height (in px)"
+msgstr "Височина на лайтбокса (в px)"
+
+#: includes/class-eraq-settings.php:220
+msgid "550"
+msgstr "550"
+
+#: includes/class-eraq-settings.php:221
+msgid "Enter Lightbox Height"
+msgstr "Въведете височина на лайтбокс"
+
+#: includes/class-eraq-settings.php:228
+msgid "Choose Quote List Page"
+msgstr "Изберете страница с списък с оферти"
+
+#: includes/class-eraq-settings.php:231
+msgid ""
+"Choose the page from this list on which customers will see their quote "
+"requests.<br>Please note: If you choose a page different from the default "
+"one (Quotes List), you will need to insert the following shortcode "
+"[elex_quote_request_list] on that page"
+msgstr ""
+"Изберете страницата от този списък, в която клиентите ще виждат заявките си "
+"за оферти.<br>Моля, обърнете внимание: Ако изберете страница, различна от "
+"тази по подразбиране (Списък с оферти), ще трябва да вмъкнете следния кратък "
+"код [elex_quote_request_list] на тази страница"
+
+#: includes/class-eraq-settings.php:238
+msgid "Quotes List Page Title"
+msgstr "Заглавие на страница от списък с оферти"
+
+#: includes/class-eraq-settings.php:241
+msgid "Product Quote List Title"
+msgstr "Заглавие на списъка с оферти за продукти"
+
+#: includes/class-eraq-settings.php:268
+msgid "Notification Email Address"
+msgstr "Имейл адрес на известяване"
+
+#: includes/class-eraq-settings.php:271
+msgid ""
+"Enter the email addresses to receive a notification when the customer places "
+"a quote request. Leave it empty to send a notification to the default "
+"administrator email id. Multiple email ids should be seperated by comma."
+msgstr ""
+"Въведете имейл адресите, за да получите известие, когато клиентът направи "
+"заявка за оферта. Оставете го празно, за да изпратите известие до "
+"идентификационния номер на имейл адреса на администратора по подразбиране. "
+"Няколко имейл ids трябва да бъдат разделени със запетая."
+
+#: includes/class-eraq-settings.php:276
+msgid "Select Customer Notification Order Statuses"
+msgstr "Избор на състояния на поръчки за известяване на клиенти"
+
+#: includes/class-eraq-settings.php:280
+msgid ""
+"Select the order statuses for which customers should receive an email "
+"notification."
+msgstr ""
+"Изберете статусите на поръчките, за които клиентите трябва да получат имейл "
+"известие."
+
+#: includes/class-eraq-settings.php:285
+msgid "Quote Requested"
+msgstr "Поискана оферта"
+
+#: includes/class-eraq-settings.php:286
+#: includes/elex-raq-send-notification-email.php:82
+msgid "Quote Approved"
+msgstr "Оферта одобрена"
+
+#: includes/class-eraq-settings.php:287
+#: includes/elex-raq-send-notification-email.php:85
+msgid "Quote Rejected"
+msgstr "Цитатът е отхвърлен"
+
+#: includes/class-eraq-settings.php:292
+msgid "Debug Log"
+msgstr "Регистри за Грешки"
+
+#: includes/class-eraq-settings.php:295
+msgid "Find email logs here (wp-content\\uploads\\wc-logs)."
+msgstr ""
+"Намерете имейл регистрационни файлове тук (wp-content\\uploads\\wc-logs)."
+
+#: includes/class-eraq-settings.php:297
+msgid "Enable."
+msgstr "Разрешите."
+
+#: includes/class-eraq-settings.php:346
+msgid "Here you can apply restrictions to the Add to cart functionality."
+msgstr ""
+"Тук можете да приложите ограничения към функционалността Добавяне към "
+"кошницата."
+
+#: includes/class-eraq-settings.php:353
+msgid "Enable"
+msgstr "Включи"
+
+#: includes/class-eraq-settings.php:355
+msgid "Check to hide Add to Cart Button."
+msgstr "Поставете отметка, за да скриете бутона \"Добави в кошницата\"."
+
+#: includes/class-eraq-settings.php:360
+msgid "Shop Page"
+msgstr "Страница Магазин"
+
+#: includes/class-eraq-settings.php:370
+msgid "Product Page"
+msgstr "Продуктова страница"
+
+#. translators: %s is replaced with "string"
+#: includes/elex-raq-add-order-statuses.php:21
+#, php-format
+msgid "Quote Requested (%s)"
+msgid_plural "Quote Requested (%s)"
+msgstr[0] "Искана оферта (%s)"
+msgstr[1] "Искана оферта (%s)"
+
+#. translators: %s is replaced with "string"
+#: includes/elex-raq-add-order-statuses.php:33
+#, php-format
+msgid "Quote Approved (%s)"
+msgid_plural "Quote Approved (%s)"
+msgstr[0] "Оферта одобрена (%s)"
+msgstr[1] "Оферта одобрена (%s)"
+
+#. translators: %s is replaced with "string"
+#: includes/elex-raq-add-order-statuses.php:45
+#, php-format
+msgid "Quote Rejected (%s)"
+msgid_plural "Quote Rejected (%s)"
+msgstr[0] "Цитат отхвърлена (%s)"
+msgstr[1] "Цитат отхвърлена (%s)"
+
+#: includes/elex-raq-send-notification-email.php:20
+msgid "Quote Request"
+msgstr "Поискай оферта"
+
+#: includes/elex-raq-send-notification-email.php:21
+msgid "You have received a new product quote from the customer"
+msgstr "Получихте нова оферта за продукт от клиента"
+
+#: includes/elex-raq-send-notification-email.php:24
+msgid "Username:"
+msgstr "Потребителско име:"
+
+#: includes/elex-raq-send-notification-email.php:25
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/elex-raq-send-notification-email.php:26
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: includes/elex-raq-send-notification-email.php:27
+msgid "Comments:"
+msgstr "Коментари:"
+
+#: includes/elex-raq-send-notification-email.php:28
+msgid "The customer has requested a quote for the following products:"
+msgstr "Клиентът е поискал оферта за следните продукти:"
+
+#: includes/elex-raq-send-notification-email.php:80
+msgid "Your quote request has been received"
+msgstr "Вашата заявка за оферта е получена"
+
+#: includes/elex-raq-send-notification-email.php:83
+msgid "Your quote request has been approved"
+msgstr "Вашата заявка за оферта е одобрена"
+
+#: includes/elex-raq-send-notification-email.php:86
+msgid "Your quote request has been rejected"
+msgstr "Вашата оферта е отхвърлена"
+
+#: includes/elex-raq-send-notification-email.php:249
+msgid "PAY NOW"
+msgstr "ПЛАТЕТЕ СЕГА"
+
+#: includes/market.php:121
+msgid "ELEX Plugins You May Be Interested In"
+msgstr "Elex плъгини, които може да ви заинтересуват"
+
+#: includes/templates/form-settings-template.php:14
+msgid ""
+"You can customize your Request a Quote form here. Click the Add Field button "
+"to add a new field. You can choose type of field from the dropdown. You can "
+"also specify whether the field is required or optional. Please Note: It is "
+"recommended that email field should be made required and also please ensure "
+"the correct field type is chosen for fields."
+msgstr ""
+"Можете да персонализирате формуляра за заявка за оферта тук. Щракнете върху "
+"бутона Добавяне на поле, за да добавите ново поле. Можете да изберете типа "
+"поле от падащото меню. Можете също да укажете дали полето е задължително или "
+"по избор. Моля, обърнете внимание: Препоръчително е, че полето за електронна "
+"поща трябва да бъде задължително и също така се уверете, че правилния тип "
+"поле е избран за полета."
+
+#: includes/templates/form-settings-template.php:20
+msgid "Label"
+msgstr "Етикет"
+
+#: includes/templates/form-settings-template.php:21
+msgid "Type"
+msgstr "Тип"
+
+#: includes/templates/form-settings-template.php:22
+msgid "Placeholder"
+msgstr "Заместител"
+
+#: includes/templates/form-settings-template.php:23
+msgid "Connected To"
+msgstr "Свързан към"
+
+#: includes/templates/form-settings-template.php:24
+msgid "Required"
+msgstr "Задължително"
+
+#: includes/templates/form-settings-template.php:25
+msgid "Remove"
+msgstr "Премахни"
+
+#: includes/templates/form-settings-template.php:127
+msgid "Add Field"
+msgstr "Добави поле"
+
+#: includes/templates/shortcode-template.php:44
+#: includes/templates/shortcode-template.php:53
+msgid "Product"
+msgstr "Продукт"
+
+#: includes/templates/shortcode-template.php:45
+#: includes/templates/shortcode-template.php:55
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/templates/shortcode-template.php:54
+msgid "Price"
+msgstr "Цена"
+
+#: includes/templates/shortcode-template.php:56
+msgid "Subtotal"
+msgstr "Междинна сума"
+
+#: includes/templates/shortcode-template.php:147
+msgid "Fill Your Details"
+msgstr "Попълнете вашите данни"
+
+#: includes/templates/shortcode-template.php:200
+msgid "Your Cart is Currently Empty"
+msgstr "Вашата кошница в момента е празна"
+
+#. Plugin Name of the plugin/theme
+msgid "ELEX WooCommerce Request a Quote"
+msgstr "Запитване за оферта"
+
+#. Plugin URI of the plugin/theme
+msgid "https://elextensions.com/plugin/"
+msgstr "https://elextensions.com/plugin/"
+
+#. Description of the plugin/theme
+msgid ""
+"Create Request a Quote option for your WooCommerce products. You can also "
+"create and customize request a quote forms to be displayed on the frontend. "
+"The plugin will also send automated email notifications for quote "
+"submissions, approvals, and rejections."
+msgstr ""
+"Създайте заявка за оферта опция за WooCommerce продукти. Можете също да "
+"създадете и персонализирате заявка за формуляри за оферта, които да се "
+"показват в прозореца. Приставката ще изпраща и автоматични известия по имейл "
+"за подаване на оферти, одобрения и отхвърляне."
+
+#. Author of the plugin/theme
+msgid "ELEXtensions"
+msgstr "ЕЛЕКАКСтентен"
+
+#. Author URI of the plugin/theme
+msgid "https://elextensions.com/"
+msgstr "https://elextensions.com/"
+
+#~ msgid "You can customize your Request a Quote form here. Click the "
+#~ msgstr ""
+#~ "Можете да персонализирате формуляра за заявка за оферта тук. Щракнете "
+#~ "върху "
