@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: ReCompare were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8081/wordpress
+Data file = /home/numa/wp-dos/apps/wordpress/htdocs/wp-content/uploads/2020/05/demo-content-import-file_2020-05-07__23-22-51.xml
+Widget file = /home/numa/wp-dos/apps/wordpress/htdocs/wp-content/uploads/2020/05/demo-widgets-import-file_2020-05-07__23-22-51.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

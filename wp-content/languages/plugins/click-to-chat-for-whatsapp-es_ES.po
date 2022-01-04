@@ -1,0 +1,464 @@
+# Translation of Plugins - Click to Chat - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Click to Chat - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-25 11:12:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Click to Chat - Development (trunk)\n"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:609
+#: new/admin/class-ht-ctc-admin-share-page.php:488
+#: new/admin/class-ht-ctc-admin-group-page.php:489
+#: new/admin/class-ht-ctc-admin-chat-page.php:563
+msgid "Category name's to Hide - add ',' after each category name"
+msgstr "Nombre de las categorías a ocultar - añadir una coma ( , ) después del nombre de cada categoría"
+
+#: prev/admin/class-ccw-admin-page.php:24
+msgid "Switch to new User Interface"
+msgstr "Cambiar a una nueva interfaz de usuario"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:661
+msgid "Check to display Styles based on type of the page"
+msgstr "Marcar para mostrar los estilos en base al tipo de página"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:692
+msgid "Animations for floating styles"
+msgstr "Animaciones para los estilos flotantes"
+
+#: prev/admin/class-ccw-admin-page.php:44
+msgid "App First / If Cache Issue"
+msgstr "Primero la aplicación / Si hay problemas de caché"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:163
+#: prev/admin/class-ccw-admin-page-customize-styles.php:575
+msgid "Image size"
+msgstr "Tamaño de la imagen"
+
+#: prev/admin/class-ccw-admin-page.php:367
+msgid "Google Tag Manager"
+msgstr "Google Tag Manager"
+
+#: prev/admin/class-ccw-admin-page.php:38
+msgid "Facebook Analytics"
+msgstr "Facebook Analytics"
+
+#: prev/admin/class-ccw-admin-page.php:37
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:882
+msgid "Custom Parameter 3"
+msgstr "Parámetro personalizado 3"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:861
+msgid "Custom Parameter 2"
+msgstr "Parámetro personalizado 2"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:851
+#: prev/admin/class-ccw-admin-page-customize-styles.php:872
+#: prev/admin/class-ccw-admin-page-customize-styles.php:893
+msgid "Value"
+msgstr "Valor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:846
+#: prev/admin/class-ccw-admin-page-customize-styles.php:867
+#: prev/admin/class-ccw-admin-page-customize-styles.php:888
+msgid "Name"
+msgstr "Nombre"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:840
+msgid "Custom Parameter 1"
+msgstr "Parámetro personalizado 1"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:830
+msgid "Event Name"
+msgstr "Nombre del evento"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:824
+msgid "Event Parameters"
+msgstr "Parámetros del evento"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:823
+msgid "Enable Facebook Analytics at plugin home settings"
+msgstr "Activar las analíticas de Facebook en la página de ajustes del plugin"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:786
+msgid "Label Name"
+msgstr "Nombre de etiqueta"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:776
+msgid "Action Name"
+msgstr "Nombre de la acción"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:766
+msgid "Category Name"
+msgstr "Nombre de la categoría"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:760
+msgid "Event Values"
+msgstr "Valores de evento"
+
+#. Plugin Name of the plugin
+#: prev/admin/class-ccw-admin-page-customize-styles.php:759
+#: prev/admin/class-ccw-admin-page-customize-styles.php:823
+msgid "Click to Chat"
+msgstr "Haz clic para Chat"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:759
+msgid "Enable Google Analytics at plugin home settings"
+msgstr "Activar las analíticas de Google en la página de ajustes del plugin"
+
+#: prev/admin/settings_page.php:68
+msgid "Click - premium plugin"
+msgstr "Click - plugin premium"
+
+#: prev/admin/settings_page.php:70
+msgid "Add your own style"
+msgstr "Añade tu propio estilo"
+
+#: prev/admin/settings_page.php:72
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:653
+msgid "Mobile - Image Width"
+msgstr "Móvil - Anchura de la imagen"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:644
+msgid "Mobile - Image Height"
+msgstr "Móvil - Altura de la imagen"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:634
+msgid "Desktop - Image Width"
+msgstr "Escritorio - Anchura de la imagen"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:625
+msgid "Desktop - Image Height"
+msgstr "Escritorio - Altura de la imagen"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:613
+msgid "Image URL - Mobile"
+msgstr "URL de la imagen - Móvil"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:605
+#: prev/admin/class-ccw-admin-page-customize-styles.php:614
+#: prev/admin/class-ccw-admin-page-customize-styles.php:620
+msgid "own image - style 99"
+msgstr "imagen propia - estilo 99"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:604
+msgid "Image URL - Desktop"
+msgstr "URL de la imagen - Escritorio"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:730
+msgid "If Yes, Animation on hover - works based on - Animation  on page load - value"
+msgstr "Si se selecciona «Sí», la animación al pasar el cursor trabaja en base al valor de la animación al cargar la página"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:728
+msgid "Animation on mouse hover"
+msgstr "Animación al pasar el cursor del ratón"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:721
+msgid "Animation on hover"
+msgstr "Animación al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:714
+msgid "animation on page load"
+msgstr "animación al cargar la página"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:699
+msgid "Animation on Page load"
+msgstr "Animación  al cargar la página"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:691
+msgid "alpha stage, things may change, may not work as like this in next releases, </br> may need to reconfigure also .."
+msgstr "etapa alfa, las cosas pueden cambiar, puede que no funcione como ahora en próximas versiones,</br>también puede necesitar volver a configurarse..."
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:181
+msgid ".png - since v1.0 - file size ~ 20kb, .svg added in v1.4 - file size ~ 4kb"
+msgstr ""
+".png - desde v1.0 - tamaño de archivo ~ 20 kb, .svg añadido en v1.4 - tamaño de archivo   \n"
+"~ 4 kb"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:179
+msgid ".svg added in v1.4"
+msgstr ".svg añadido en v1.4"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:172
+msgid "file type"
+msgstr "tipo de archivo"
+
+#. Author URI of the plugin
+msgid "https://holithemes.com/plugins/click-to-chat/"
+msgstr "https://holithemes.com/plugins/click-to-chat/"
+
+#. Author of the plugin
+msgid "HoliThemes"
+msgstr "HoliThemes"
+
+#. Description of the plugin
+msgid "Lets make your Web page visitor contact you through WhatsApp with a single click/tap"
+msgstr "Vamos a hacer que el visitante de tu pagina web contacte contigo a través de WhatsApp con un solo clic/toque"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/click-to-chat-for-whatsapp/"
+msgstr "https://es.wordpress.org/plugins/click-to-chat-for-whatsapp/"
+
+#: new/class-ht-ctc.php:64 new/class-ht-ctc.php:68 prev/inc/class-ht-ccw.php:80
+#: prev/inc/class-ht-ccw.php:84
+msgid "Cheatin&#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#: new/inc/class-ht-ctc-register.php:54 prev/inc/class-ht-ccw-register.php:54
+msgid "Settings"
+msgstr "Ajustes"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:687
+msgid "Category name's to show styles, can add multiple Categories separate with a comma ( , )"
+msgstr "Nombre de las categorías para mostrar estilos, pueden añadirse varias categorías separadas con una coma ( , )"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:807
+#: new/admin/class-ht-ctc-admin-share-page.php:686
+#: new/admin/class-ht-ctc-admin-group-page.php:687
+#: new/admin/class-ht-ctc-admin-chat-page.php:761
+msgid "Category name's to Show - add ',' after each category name"
+msgstr "Nombre de las categorías a mostrar - añadir una coma ( , ) después del nombre de cada categoría"
+
+#: prev/admin/class-ccw-admin-page.php:271
+msgid " e.g. 10px - please add css units as suffix, e.g. 10px, 10%, 10rem, 10em"
+msgstr "Ejemplo, 10px - por favor, añade unidades CSS como sufijo, por ejemplo, 10px, 10%, 10rem, 10em"
+
+#: prev/admin/class-ccw-admin-page.php:270
+msgid "Fixed position to place"
+msgstr "Posición fija para colocarlo"
+
+#: prev/admin/class-ccw-admin-page.php:268
+msgid "top right"
+msgstr "arriba derecha"
+
+#: prev/admin/class-ccw-admin-page.php:267
+msgid "top left"
+msgstr "arriba izquierda"
+
+#: prev/admin/class-ccw-admin-page.php:266
+msgid "bottom left"
+msgstr "abajo izquierda"
+
+#: prev/admin/class-ccw-admin-page.php:265
+msgid "bottom right"
+msgstr "abajo derecha"
+
+#: new/admin/class-ht-ctc-admin-share-page.php:141
+#: new/admin/class-ht-ctc-admin-group-page.php:141
+#: prev/admin/class-ccw-admin-page.php:366
+msgid "Customize Styles"
+msgstr "Personalizar estilos"
+
+#: prev/admin/class-ccw-admin-page.php:178
+msgid "Select Style for Desktop"
+msgstr "Seleccionar estilo para el escritorio"
+
+#: prev/admin/class-ccw-admin-page.php:176
+msgid "Hide on Desktop Devices"
+msgstr "Ocultar en dispositivos de escritorio"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:692
+#: prev/admin/class-ccw-admin-page-customize-styles.php:760
+#: prev/admin/class-ccw-admin-page-customize-styles.php:824
+msgid "more info"
+msgstr "más información"
+
+#: new/admin/class-ht-ctc-admin-main-page.php:409
+#: new/admin/class-ht-ctc-admin-share-page.php:288
+#: new/admin/class-ht-ctc-admin-group-page.php:289
+#: new/admin/class-ht-ctc-admin-chat-page.php:363
+msgid "enable"
+msgstr "activar"
+
+#: prev/admin/class-ccw-admin-page.php:114
+msgid "No"
+msgstr "No"
+
+#: prev/admin/class-ccw-admin-page.php:43
+msgid "Shortcode name"
+msgstr "Nombre del shortcode"
+
+#: prev/admin/class-ccw-admin-page.php:42
+msgid "Categorys to Hide"
+msgstr "Categorías a ocultar"
+
+#: prev/admin/class-ccw-admin-page.php:41
+msgid "Posts, Pages Id's to Hide"
+msgstr "ID de entradas y páginas a ocultar"
+
+#: prev/admin/class-ccw-admin-page.php:40
+msgid "Hide Based on post type"
+msgstr "Ocultar en base al tipo de contenido"
+
+#: prev/admin/class-ccw-admin-page.php:35
+msgid "Text to Display"
+msgstr "Texto a mostrar"
+
+#: prev/admin/class-ccw-admin-page.php:34
+msgid "Position to Place"
+msgstr "Posición donde colocarlo"
+
+#: prev/admin/class-ccw-admin-page.php:33
+msgid "Style for Mobile Devices"
+msgstr "Estilo para dispositivos móviles"
+
+#: prev/admin/class-ccw-admin-page.php:32
+msgid "Style for Desktops"
+msgstr "Estilo para dispositivos de escritorio"
+
+#: prev/admin/class-ccw-admin-page.php:31
+msgid "Group Id"
+msgstr "ID de grupo"
+
+#: prev/admin/class-ccw-admin-page.php:30
+#: prev/admin/class-ccw-admin-page.php:235
+msgid "Initial Message"
+msgstr "Mensaje inicial"
+
+#: prev/admin/class-ccw-admin-page.php:29
+msgid "WhatsApp Number"
+msgstr "Numero de WhatsApp"
+
+#: prev/admin/class-ccw-admin-page.php:28
+msgid "Return Type"
+msgstr "Tipo de retorno"
+
+#: prev/admin/class-ccw-admin-page.php:27
+msgid "Enable ShortCodes"
+msgstr "Activar los shortcodes"
+
+#: prev/admin/class-ccw-admin-page.php:26
+msgid "Enable Floating Styles"
+msgstr "Activar los estilos flotantes"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:541
+msgid "Icon flow"
+msgstr "Icono en movimiento"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:533
+msgid "Icon float"
+msgstr "Icono flotante"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:524
+msgid "Icon color on hover"
+msgstr "Color del icono al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:515
+msgid "Background Color on hover"
+msgstr "Color del fondo al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:506
+msgid "Text Color on hover"
+msgstr "Color del texto al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:497
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:454
+msgid "add height, width, line-height same values - if feels like icon is not center then adjust 'Line Height' to make icon looks center of the box"
+msgstr "Añade los mismos valores de altura, anchura y altura de línea - si parece que el icono no está centrado, ajusta la «Altura de la línea» para que el icono se vea en el centro de la caja"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:447
+msgid "box Line Height"
+msgstr "Altura de la línea de la caja"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:438
+msgid "box Width"
+msgstr "Anchura de la caja"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:429
+msgid "box Height"
+msgstr "altura de la caja"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:419
+msgid "box color - when hover"
+msgstr "Color de la caja - al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:410
+msgid "box color"
+msgstr "color de la caja"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:358
+msgid "add height, width, line-height same values - if feels like icon is not center then adjust 'Line Height' to make icon looks center of the circle"
+msgstr "Añade los mismos valores de altura, anchura y altura de línea - si parece que el icono no está centrado, ajusta la «Altura de la línea» para que el icono se vea en el centro del círculo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:351
+msgid "Circle Line Height"
+msgstr "Altura de la línea del círculo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:342
+msgid "Circle Width"
+msgstr "Anchura del círculo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:333
+msgid "Circle Height"
+msgstr "Altura del círculo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:323
+msgid "Circle color - when hover"
+msgstr "Color del círculo - al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:314
+msgid "Circle color"
+msgstr "Color del círculo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:260
+#: prev/admin/class-ccw-admin-page-customize-styles.php:305
+#: prev/admin/class-ccw-admin-page-customize-styles.php:401
+msgid "Size of icon"
+msgstr "Tamaño del icono"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:251
+#: prev/admin/class-ccw-admin-page-customize-styles.php:296
+#: prev/admin/class-ccw-admin-page-customize-styles.php:392
+msgid "Color of icon - when hover"
+msgstr "Color del icono - al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:241
+#: prev/admin/class-ccw-admin-page-customize-styles.php:286
+#: prev/admin/class-ccw-admin-page-customize-styles.php:382
+msgid "Color of icon"
+msgstr "Color del icono"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:214
+#: prev/admin/class-ccw-admin-page-customize-styles.php:488
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:138
+msgid "Text Decoration on focus"
+msgstr "Decoración del texto al enfocar"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:127
+msgid "Text Decoration when Hover"
+msgstr "Decoración del texto al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:110
+#: prev/admin/class-ccw-admin-page-customize-styles.php:121
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:101
+msgid "Text Color When Hover"
+msgstr "Color del texto al pasar el cursor"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:92
+#: prev/admin/class-ccw-admin-page-customize-styles.php:205
+#: prev/admin/class-ccw-admin-page-customize-styles.php:479
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: prev/admin/class-ccw-admin-page-customize-styles.php:548
+msgid "Icon size"
+msgstr "Tamaño de icono"

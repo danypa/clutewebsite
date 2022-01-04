@@ -1,0 +1,57 @@
+/* CSS Document */
+.wpdocs_dir{
+	width:300px;
+}
+.wpdocs_folders{
+	border:0;
+}
+.wpdocs-views a{
+	cursor:pointer;
+}
+ol.breadcrumb{
+	margin:0 !important;
+	list-style:none;
+}
+ol.breadcrumb li.breadcrumb-item{
+	margin: 0.5rem 0 0 0;
+	list-style:none;
+	font-size:12px;
+}
+
+.wpdoc_container,
+.wpdoc_container * {
+	font-family: Arial;
+}
+
+.wpdocs-front-add-media{
+	top:35%;
+	right: 30px;
+	cursor: pointer;
+	font-size: 1.8em;
+	color: #dc3545;
+}
+
+.wpdocs-front-add-media:hover{
+	color: #B62F3B;
+}
+.wpdoc_container .folder_view.detail_view table{
+	width:96% !important;
+	margin:0 auto;
+}
+.wpdoc_container .folder_view.large_icon_view figure{
+	text-align:center;
+	padding:10px !important;
+	border-radius: .25rem;
+}
+.wpdoc_container .folder_view.list_view figure{
+	padding: 6px 10px !important;
+	border-radius: .25rem;
+	min-width: 170px;
+}
+.wpdoc_container .folder_view.list_view figure img{
+	box-shadow:none;
+}
+.wpdoc_container .folder_view figure small{
+	position:relative;
+	top:-4px;
+}

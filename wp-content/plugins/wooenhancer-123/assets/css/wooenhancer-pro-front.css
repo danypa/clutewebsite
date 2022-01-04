@@ -1,0 +1,79 @@
+div#wooenhancer_shop_ajax_call {
+    width: 560px;
+    padding: 20px 40px;
+    background-color: #ffffff;
+    border: 1px solid rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.3);
+    border-radius: 3px;
+	min-height: 200px;
+	z-index: 9999;
+	position: absolute;
+	height: 550px;
+	overflow-y: scroll;
+	background-image: url(images/spinner.gif);
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+
+
+#wooenhancer_shop_ajax_call_inner .summary.entry-summary {
+    width: 100% !important;
+    padding: 0;
+}
+
+div#wooenhancer_shop_ajax_call .images {
+	width: 100%;
+}
+
+.wooenhancer_shop_ajax_call_close {
+    width: 20px;
+    height: 20px;
+    display: block;
+    float: right;
+    color: #444;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+/*================= Ask a Question =================================*/
+.wooenhancer_enquire_background {
+	background-color: rgba(0,0,0,0.85);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: 998;
+	overflow: hidden;
+	left: 0;
+	top: 0;
+	display: none;
+	visibility: hidden;
+}
+
+.wooenhancer_enquire_wrapper input, .wooenhancer_enquire_wrapper textarea {
+	background-color: #fafafa;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.wooenhancer_enquire_wrapper.clearfix {
+    background-color: #fff;
+    padding: 2.5%;
+    position: fixed;
+	font-size: 15px;
+    top: 10%;
+    overflow-y: scroll;
+    height: 80%;
+    left: 50%;
+    z-index: 999;
+    width: 600px;
+    margin-left: -300px;
+    box-shadow: 0px 0px 10px;
+}
+
+.wooenhancer_product_wysiwyg, .wooenhancer_product_html {
+	width: 100%;
+	float: left;
+	clear: both;
+	display: block;
+}

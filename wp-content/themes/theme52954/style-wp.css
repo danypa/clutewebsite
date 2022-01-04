@@ -1,0 +1,13 @@
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3 {
+padding: 0px 10px 10px 10px;	
+margin: 0;
+font-size:  1em	;
+line-height:  normal;
+height:  40px;
+text-overflow:  ellipsis;
+max-height:  40px;
+overflow:  hidden;
+line-height:  1;
+word-wrap:  break-word;
+}

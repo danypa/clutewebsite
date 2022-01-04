@@ -1,0 +1,282 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: motopress woocommerce\n"
+"POT-Creation-Date: 2019-12-17 20:17+0000\n"
+"PO-Revision-Date: 2020-01-30 22:53+0000\n"
+"Last-Translator: admin <ntorres@dssperu.com>\n"
+"Language-Team: Español de Perú\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: motopress-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-Flags-xgettext: --add-comments\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Language: es_PE\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: motopress-woocommerce.php:54
+msgid "Order by"
+msgstr ""
+
+#: motopress-woocommerce.php:57
+msgid "Date"
+msgstr ""
+
+#: motopress-woocommerce.php:58
+msgid "ID of the product"
+msgstr ""
+
+#: motopress-woocommerce.php:59
+msgid "Menu order"
+msgstr ""
+
+#: motopress-woocommerce.php:60
+msgid "Number of purchases"
+msgstr ""
+
+#: motopress-woocommerce.php:61
+msgid "Randomly"
+msgstr ""
+
+#: motopress-woocommerce.php:62
+msgid "Average product rating"
+msgstr ""
+
+#: motopress-woocommerce.php:63
+msgid "Title"
+msgstr ""
+
+#: motopress-woocommerce.php:69
+msgid "Order"
+msgstr ""
+
+#: motopress-woocommerce.php:72
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: motopress-woocommerce.php:73
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: motopress-woocommerce.php:79 motopress-woocommerce.php:154
+msgid "Products"
+msgstr ""
+
+#: motopress-woocommerce.php:80
+msgid "The number of products to display."
+msgstr ""
+
+#: motopress-woocommerce.php:85 motopress-woocommerce.php:143
+msgid "Columns"
+msgstr ""
+
+#: motopress-woocommerce.php:86 motopress-woocommerce.php:144
+msgid "The number of columns to display."
+msgstr ""
+
+#: motopress-woocommerce.php:93
+msgid "Cart"
+msgstr ""
+
+#: motopress-woocommerce.php:95
+msgid "Checkout"
+msgstr ""
+
+#: motopress-woocommerce.php:97
+msgid "Order Tracking Form"
+msgstr ""
+
+#: motopress-woocommerce.php:99
+msgid "My Account"
+msgstr "Mi Cuenta"
+
+#: motopress-woocommerce.php:103
+msgid "Number of orders to show"
+msgstr ""
+
+#: motopress-woocommerce.php:104
+msgid "Use -1 to display all orders."
+msgstr ""
+
+#: motopress-woocommerce.php:111
+msgid "Recent Products"
+msgstr ""
+
+#: motopress-woocommerce.php:121
+msgid "Featured Products"
+msgstr "Productos Destacados"
+
+#: motopress-woocommerce.php:131
+msgid "Product"
+msgstr ""
+
+#: motopress-woocommerce.php:135
+msgid "Show a single product by ID"
+msgstr ""
+
+#: motopress-woocommerce.php:139
+msgid "Show a single product by SKU"
+msgstr ""
+
+#: motopress-woocommerce.php:158
+msgid "Show multiple products by ID"
+msgstr ""
+
+#: motopress-woocommerce.php:159
+msgid "example: 12, 25, 30, 49"
+msgstr ""
+
+#: motopress-woocommerce.php:163
+msgid "Show multiple products by SKU"
+msgstr ""
+
+#: motopress-woocommerce.php:164
+msgid "example: foo, bar, baz"
+msgstr ""
+
+#: motopress-woocommerce.php:173
+msgid "Add to Cart"
+msgstr "Agregar al Carrito"
+
+#: motopress-woocommerce.php:177
+msgid "Product ID"
+msgstr ""
+
+#: motopress-woocommerce.php:178
+msgid "Show the price and add to cart button of a single product by ID"
+msgstr ""
+
+#: motopress-woocommerce.php:182
+msgid "Product SKU"
+msgstr ""
+
+#: motopress-woocommerce.php:183
+msgid "Show the price and add to cart button of a single product by SKU"
+msgstr ""
+
+#: motopress-woocommerce.php:187
+msgid "Style"
+msgstr ""
+
+#: motopress-woocommerce.php:191
+msgid "Show Price"
+msgstr ""
+
+#: motopress-woocommerce.php:198
+msgid "Single Product Page"
+msgstr ""
+
+#: motopress-woocommerce.php:202
+msgid "Show a full single product page by ID"
+msgstr ""
+
+#: motopress-woocommerce.php:206
+msgid "Show a full single product page by SKU"
+msgstr ""
+
+#: motopress-woocommerce.php:212
+msgid "Category"
+msgstr ""
+
+#: motopress-woocommerce.php:220
+msgid "Show multiple products in a category by slug"
+msgstr ""
+
+#: motopress-woocommerce.php:221
+msgid "Go to: WooCommerce > Products > Categories to find the slug column"
+msgstr ""
+
+#: motopress-woocommerce.php:228 motopress-woocommerce.php:268
+#: motopress-woocommerce.php:282 motopress-woocommerce.php:298
+msgid "Categories"
+msgstr ""
+
+#: motopress-woocommerce.php:232
+msgid "Number"
+msgstr ""
+
+#: motopress-woocommerce.php:233
+msgid "The number of categories to display."
+msgstr ""
+
+#: motopress-woocommerce.php:241
+msgid "Hide empty"
+msgstr ""
+
+#: motopress-woocommerce.php:246
+msgid "Parent"
+msgstr ""
+
+#: motopress-woocommerce.php:247
+msgid "Set the parent parameter to 0 to only display top level categories"
+msgstr ""
+
+#: motopress-woocommerce.php:252
+msgid "IDs"
+msgstr ""
+
+#: motopress-woocommerce.php:253
+msgid "Set ids to a comma separated list of category ids to only show those"
+msgstr ""
+
+#: motopress-woocommerce.php:260
+msgid "Sale Products"
+msgstr ""
+
+#: motopress-woocommerce.php:269 motopress-woocommerce.php:283
+#: motopress-woocommerce.php:299
+msgid "Comma separated list of category slug"
+msgstr ""
+
+#: motopress-woocommerce.php:276
+msgid "Best Selling Products"
+msgstr ""
+
+#: motopress-woocommerce.php:290
+msgctxt "Mejores Productos"
+msgid "Top Rated Products"
+msgstr "Productos Mejor Valorados"
+
+#: motopress-woocommerce.php:306
+msgid "Products by Attribute"
+msgstr ""
+
+#: motopress-woocommerce.php:314
+msgid "Attribute"
+msgstr ""
+
+#: motopress-woocommerce.php:319
+msgid "Filter (terms)"
+msgstr ""
+
+#: motopress-woocommerce.php:326
+msgid "Related Products"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MotoPress and WooCommerce Integration"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://motopress.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extend MotoPress Content Editor plugin with WooCommerce shortcodes and "
+"styles."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MotoPress"
+msgstr ""

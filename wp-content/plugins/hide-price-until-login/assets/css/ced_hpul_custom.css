@@ -1,0 +1,74 @@
+/*===========================================
+=            PROMOTIONAL SIDEBAR            =
+===========================================*/
+.ced_hpul_main_wrapper{
+	float: left;
+	width: 68%;
+	margin-right: 2%;
+}
+.ced_hpul_email_image {
+	float: left;
+	width: 30%;
+}
+.ced_hpul_email_main_content{
+	background-color: #ffffff;
+	padding: 10px;
+	width: 300px;
+	box-shadow: 0 3px 9px -4px rgba(0,0,0,0.5);
+	position: relative;
+	margin: 0px auto 0;
+}
+.ced_hpul_email_main_content .ced-recom h4 {
+	margin: 0;
+	font-size: 14px;
+}
+.wramvp_main_content__col a {
+	display: block;
+}
+.wramvp_main_content__col a img {
+	width: 100%;
+}
+.button-primary.ced_hpul_cross_image {
+	border-radius: 50%;
+	height: 20px;
+	width: 20px;
+	padding: 0px;
+	position: absolute;
+	top: -5px;
+	right: -5px;
+	display: block;
+	text-align: center;
+	line-height: 16px;
+	box-shadow: none;
+}
+.ced_hpul_cross_image  > a {
+	display: block;
+	position: relative;
+}
+.wramvp-support::after,
+.wramvp-support ul li::after,
+.wramvp_main_wrapper::after{
+	content: "";
+	display: table;
+	clear: both;
+}
+.wramvp-support {
+	padding: 15px 0;
+}
+.wramvp-support span a {
+	display: block;
+}
+.wramvp-support .wramvp-support__left {
+	float: left;
+	width: 43%;
+}
+.wramvp-support .wramvp-support__right {
+	float: left;
+	width: 57%;
+}
+.ced_hpul_email_image + .submit ,
+.ced_hpul_main_wrapper + .submit {
+    float: left;
+    width: 68%;
+}
+/*=====  End of PROMOTIONAL SIDEBAR  ======*/

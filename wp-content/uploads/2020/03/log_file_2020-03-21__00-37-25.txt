@@ -1,0 +1,113 @@
+
+---Downloaded files---
+The import files for: ReCart were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = /home/numa/vitaminosos/apps/wordpress/htdocs/wp-content/uploads/2020/03/demo-content-import-file_2020-03-21__00-37-25.xml
+Widget file = /home/numa/vitaminosos/apps/wordpress/htdocs/wp-content/uploads/2020/03/demo-widgets-import-file_2020-03-21__00-37-25.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+------
+New AJAX call!
+[WARNING] Failed to import dealstore Test Store
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Show only in singular pages - No Title - Imported
+ReHub: Ajax Tabs - No Title - Imported
+ReHub: Sticky on scroll - No Title - Imported
+
+Footer 1 : 
+
+Texto - About Rehub - Imported
+
+Footer 2 : 
+
+Texto - No Title - Imported
+
+Footer 3 : 
+
+Texto - Sign Up for Weekly Newsletter - Imported
+Imagen - No Title - Imported
+
+Woocommerce shop sidebar : 
+
+Filtrar productos por precio - Filter by price - Imported
+Filtrar productos por atributo - Color - Imported
+Filtrar productos por atributo - Memory - Imported
+Filtrar productos por atributo - Display Type - Imported
+Filtrar productos por atributo - Operation System - Imported
+woocommerce_rating_filter - Average rating - Site does not support widget
+
+Woocommerce product sidebar : 
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Imported
+ReHub: Top Offers/Products - Top offers - Imported
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------

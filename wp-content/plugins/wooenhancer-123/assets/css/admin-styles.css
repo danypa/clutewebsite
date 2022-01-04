@@ -1,0 +1,100 @@
+.migwoo_sorter_section tr {
+    display: block;
+}
+
+.migwoo_enhancer_full_sorter.compiler ul {
+	margin-bottom: 20px;
+}
+
+.migwoo_enhancer_full_sorter.compiler
+
+{
+    padding-right: 3%;
+}
+
+.migwoo_enhancer_full_sorter.compiler td, .migwoo_enhancer_full_sorter.compiler th {
+	display: block;
+	width: 100% !important;
+	clear: both;
+}
+
+ul#single-product-hooks_disabled, ul#single-product-hooks_after_summary, ul#shop-page-hooks_before_shop, ul#shop-page-hooks_after_shop,
+ul#shop-page-hooks_disabled, ul#single-product-hooks_full_width, ul#single-product-hooks_full_width, ul#single-product-hooks_before_content
+{
+    width: 95%;
+    padding: 2.5%;
+}
+
+ul#single-product-hooks_before_summary, ul#single-product-hooks_thumbnails_area {
+    width: 48%;
+    padding: 2.5%;
+    margin-right: 3%;
+}
+
+ul#single-product-hooks_summary {
+    width: 38%;
+    padding: 2.5%;
+	float:right;
+	margin-right: 0;
+}
+
+ul#checkout-billing-fields_enabled, ul#checkout-billing-fields_disabled, ul#checkout-shipping-fields_enabled, ul#checkout-shipping-fields_disabled,
+ul#checkout-order-fields_enabled, ul#checkout-order-fields_disabledul
+
+{
+	width: 43%;
+	margin-right: 0;
+	padding: 2.5%;
+}
+
+ul#checkout-billing-fields_enabled, ul#checkout-shipping-fields_enabled, ul#checkout-order-fields_enabled {
+	margin-right: 3%;
+}
+
+a.alborotado-button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.alborotado-advertiser.clearfix {
+    padding: 2.5%;
+    background: white;
+    float: left;
+    width: 95%;
+}
+
+img.alborotado-image {
+    width: 100px;
+    max-width: 200px;
+    margin-bottom: 20px;
+    float: left;
+}
+
+p.alborotado-description {
+    float: left;
+    margin-left: 30px;
+    max-width: 500px;
+    clear: right;
+}
+
+.alborotado-buttons-container {
+    float: right;
+    margin: 40px 150px;
+}
+
+.alborotado-title {
+    font-size: 25px;
+    font-weight: 600;
+    float: left;
+    width: 100%;
+    clear: both;
+}
+
+.redux-field-container .wp-picker-container {
+  display: inline-block !important;
+  float: left;
+}

@@ -1,0 +1,9 @@
+2021-12-16T03:26:31+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /home/knk/w5media/www/html/clute/wp-content/themes/rehub-theme/inc/top/woobtn.php:7
+Stack trace:
+#0 /home/knk/w5media/www/html/clute/wp-content/themes/rehub-theme/template-topcharts.php(146): include()
+#1 /home/knk/w5media/www/html/clute/wp-includes/template-loader.php(106): include('/home/knk/w5med...')
+#2 /home/knk/w5media/www/html/clute/wp-blog-header.php(19): require_once('/home/knk/w5med...')
+#3 /home/knk/w5media/www/html/clute/index.php(17): require('/home/knk/w5med...')
+#4 {main}
+  thrown in /home/knk/w5media/www/html/clute/wp-content/themes/rehub-theme/inc/top/woobtn.php on line 7
+

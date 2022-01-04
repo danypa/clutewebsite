@@ -1,0 +1,215 @@
+/*--
+	Theme Name: theme52954
+	Theme URI: http://info.template-help.com/help/
+	Description: A theme for Wordpress 3.8.x
+	Author: Template_Help.com
+	Author URI: http://info.template-help.com/help/
+	Template: CherryFramework
+	Version: 3.1
+	MotoPress Version: 1.0
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom CSS here
+---------------------------------------- */
+
+#content {
+    padding: 20px 0 0 0 !important;
+}
+
+.woocommerce-account .woocommerce-MyAccount-content {
+    float: left !important; 
+    flex-wrap: wrap;
+}
+
+ .woocommerce .woocommerce-error, .woocommerce .woocommerce-message {
+	 float: none;
+	 width: 100%;
+}
+ .woocommerce .woocommerce-MyAccount-navigation {
+	 background: #9ea3a8/*#f6f7f9 vanessa*/;
+	 width: 20%;
+}
+ .woocommerce .woocommerce-MyAccount-navigation ul {
+	 flex-direction: column;
+	 flex-wrap: nowrap;
+}
+
+.woocommerce-MyAccount-content {
+	background-color: #f2f2f2/*white*/;/*vanessa*/
+	
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link {
+	 background: #e8e9ee;/*vanessa*/
+	 border-left: 4px solid #475bb2;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link  a.navigationc{
+	color: #333333 ;  /*vanessa*/
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link  a.navigationc:hover{
+	color: #475bb2 ;  /*vanessa*/
+}
+
+
+.woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link a{
+	 padding-left:10px;
+	 color: #475bb2;
+}
+
+
+ .woocommerce .woocommerce-MyAccount-content {
+	 width: 80%;
+}
+ .woocommerce .woocommerce-MyAccount-content .woocommerce-profile-header {
+	 display: flex;
+	 flex-wrap: wrap;
+	 align-items: center;
+}
+ .woocommerce .woocommerce-MyAccount-content .woocommerce-profile-header .woocommerce-img-container {
+	 margin-right: 20px;
+}
+
+
+ @media screen and (max-width: 980px) {
+	 .woocommerce .woocommerce-MyAccount-navigation {
+		 width: 30%;
+	}
+	 .woocommerce .woocommerce-MyAccount-content {
+		 width: 70%;
+	}
+}
+ @media screen and (max-width: 600px) {
+	 .woocommerce .woocommerce-MyAccount-navigation {
+		 width: 100%;
+	}
+	 .woocommerce .woocommerce-MyAccount-navigation ul .woocommerce-MyAccount-navigation-link a {
+		 padding: 15px 20px;
+	}
+	 .woocommerce .woocommerce-MyAccount-content {
+		 width: 100%;
+	}
+	 .woocommerce .woocommerce-MyAccount-content {
+		 padding: 15px;
+	}
+}
+ 
+
+
+#pa_modelo{
+ width:100% ! important;
+}
+
+.ur-button-container{
+ width:220px;
+}
+
+.woocommerce-button {
+ width:auto !important;/*vanessa*/
+ padding:5px 10px !important;
+}
+
+
+
+.woocommerce-Input {
+ width:320px !important;
+}
+
+.ur-frontend-form {
+background-color: #fff;
+}
+
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-message {
+    float: none;
+     width: unset;
+}
+
+.address
+{
+	font-family:lato;
+	font-size: 15px;
+	font-weight:300;
+}/*vanessa*/
+
+.hraddress{
+	border-bottom: 1px solid #19428a;
+}/*vanessa*/
+
+.woocommerce table.shop_table tr{
+	background:#fcfcfc;
+}/*vanessa*/
+
+
+.woocommerce .select{
+width:100% !important;
+}/*vanessa*/
+
+.woocommerce #billing_department{
+width:50% !important;
+}/*vanessa*/
+
+.woocommerce #billing_city{
+width:50% !important;
+}/*vanessa*/
+
+.woocommerce #billing_district{
+width:50% !important;
+}/*vanessa*/
+
+.wooccm-additional-fields .form-row-first{
+width:50% !important;
+}/*vanessa*/
+
+.woocommerce #payment #place_order, .woocommerce-page #payment #place_order {
+    float: right;
+    padding:10px;
+}/*vanessa*/
+
+.woocommerce-input-wrapper #shipping_department{
+	width:50% !important;
+}/*vanessa*/
+
+.shipping_address #shipping_city{
+	width:50% !important;
+}/*vanessa*/
+
+.shipping_address #shipping_district{
+	width:50% !important;
+}/*vanessa*/
+
+.shipping_address #shipping_shipperagency{
+	width:50% !important;
+}/*vanessa*/
+
+
+
+.widget_shopping_cart_content .wc-forward{
+	padding:5px !important;
+	margin: 5px !important;
+}
+	
+.woocommerce-MyAccount-content .button{
+	padding:5px !important;
+	margin: 5px !important;
+}
+
+
+
+.user-registration .button{
+	padding:5px !important;
+	margin: 5px !important;
+}
+
+
+.woocommerce-ResetPassword .button{
+	padding:5px !important;
+	margin: 5px !important;
+}
+
+
+.return-to-shop  .button{
+	padding:5px !important;
+	margin: 5px !important;
+}

@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: ReDokanNew were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8081/wordpress
+Data file = /home/numa/wp-dos/apps/wordpress/htdocs/wp-content/uploads/2020/05/demo-content-import-file_2020-05-07__23-40-24.xml
+Widget file = /home/numa/wp-dos/apps/wordpress/htdocs/wp-content/uploads/2020/05/demo-widgets-import-file_2020-05-07__23-40-24.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar Area : 
+
+ReHub: Ajax Tabs - No Title - Widget already exists
+ReHub: Sticky on scroll - No Title - Widget already exists
+
+Footer 1 : 
+
+Texto - About Rehub - Widget already exists
+
+Footer 2 : 
+
+Texto - No Title - Widget already exists
+
+Footer 3 : 
+
+Texto - Sign Up for Weekly Newsletter - Widget already exists
+Imagen - No Title - Widget already exists
+
+Woocommerce shop sidebar : 
+
+Filtrar productos por precio - Filter by price - Widget already exists
+Filtrar productos por atributo - Color - Widget already exists
+Filtrar productos por atributo - Memory - Widget already exists
+Filtrar productos por atributo - Display Type - Widget already exists
+Filtrar productos por atributo - Operation System - Widget already exists
+woocommerce_rating_filter - Average rating - Site does not support widget
+
+Woocommerce product sidebar : 
+
+ReHub: Latest Woo Comparisons - Latest Comparisons - Widget already exists
+ReHub: Top Offers/Products - Top offers - Widget already exists
+
+
+
+---pt-ocdi/after_import---
+Theme Options was updated-------Customizer was updated-------Menu was assigned-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------Menu hierarchy was fixed-------HomePage was assigned-------

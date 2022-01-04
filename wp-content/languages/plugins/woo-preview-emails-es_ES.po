@@ -1,0 +1,52 @@
+# Translation of Plugins - Preview E-mails for WooCommerce - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Preview E-mails for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-05 10:26:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Preview E-mails for WooCommerce - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://www.digamberpradhan.com/preview-e-mails-for-woocommerce/"
+msgstr "https://www.digamberpradhan.com/preview-e-mails-for-woocommerce/"
+
+#. Plugin Name of the plugin
+msgid "Preview E-mails for WooCommerce"
+msgstr "Preview E-mails for WooCommerce"
+
+#: classes/class-woocommerce-preview-emails.php:182
+msgid "Note: E-mails require orders to exist before you can preview them"
+msgstr "Atención: Es necesario que el pedido exista para poder previsualizar sus emails"
+
+#: views/form.php:92
+msgid "Mail to"
+msgstr "Enviar email a"
+
+#. Author of the plugin
+msgid "Digamber Pradhan"
+msgstr "Digamber Pradhan"
+
+#. Description of the plugin
+msgid "An Extension for WooCommerce that lets you Preview Emails, without having to send them."
+msgstr "Una extensión para WooCommerce que te permite previsualizar los correos electrónicos de los pedidos"
+
+#: classes/class-woocommerce-preview-emails.php:304
+msgid "Back to Admin Area"
+msgstr "Volver al admin"
+
+#: views/form.php:28 views/form.php:33
+msgid "Choose Order"
+msgstr "Seleccionar pedido"
+
+#: views/form.php:7 views/form.php:11
+msgid "Choose Email"
+msgstr "Seleccionar correo electrónico"
+
+#. Author URI of the plugin
+msgid "https://digamberpradhan.com/"
+msgstr "https://digamberpradhan.com/"

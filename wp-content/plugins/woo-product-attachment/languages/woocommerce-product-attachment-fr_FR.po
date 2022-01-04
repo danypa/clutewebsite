@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-08-09 15:42+0530\n"
+"PO-Revision-Date: 2017-08-09 16:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:209
+msgid "Product Details Page Tab Title"
+msgstr "Détails du produit Titre de l'onglet de la page"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:220
+msgid "Order Details Page Tab Title"
+msgstr "Titre de l'onglet de la page de commande"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:347
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1136
+msgid "WooCommerce Product Attachment"
+msgstr "WooCommerce Product Attachment"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:525
+msgid "Attachments"
+msgstr "Pièces jointes"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:526
+msgid ""
+"Choose file to attach to the product. Attachments can be downloadable/"
+"viewable in the Order details and/or Product pages. In case of visibility on "
+"order details page, every file can be visible for different order statuses."
+msgstr ""
+"Choisissez le fichier à joindre au produit. Les pièces jointes peuvent être "
+"téléchargeables / visibles dans les détails de la commande et / ou sur les "
+"pages du produit. En cas de visibilité sur la page de détails de l'ordre, "
+"chaque fichier peut être visible pour différents états de commande."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:594
+#: admin/class-woocommerce-product-attachment-pro--admin.php:853
+msgid "Drag to reorder"
+msgstr "Faites glisser pour réorganiser"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:598
+#: admin/class-woocommerce-product-attachment-pro--admin.php:854
+msgid "Click to toggle"
+msgstr "Cliquez pour basculer"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:610
+#: admin/class-woocommerce-product-attachment-pro--admin.php:865
+msgid ""
+"Unique id used to identy attachment.This value is automatically generated."
+msgstr ""
+"Identifiant unique utilisé pour la pièce jointe. Cette valeur est générée "
+"automatiquement."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:621
+#: admin/class-woocommerce-product-attachment-pro--admin.php:876
+msgid "Attachment Name"
+msgstr "Nom de la pièce jointe"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:622
+#: admin/class-woocommerce-product-attachment-pro--admin.php:879
+msgid "Type an name for the attachment. It wil be displayed in the front end"
+msgstr "Tapez un nom pour la pièce jointe. Il sera affiché à l'avant"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:630
+#: admin/class-woocommerce-product-attachment-pro--admin.php:888
+msgid "Attachment Description"
+msgstr "Description de la pièce jointe"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:631
+msgid "You can type a short description"
+msgstr "Vous pouvez saisir une courte description"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:639
+#: admin/class-woocommerce-product-attachment-pro--admin.php:897
+msgid "Upload Attachment"
+msgstr "Télécharger la pièce jointe"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:641
+#: admin/class-woocommerce-product-attachment-pro--admin.php:900
+msgid "Upload Attachement File."
+msgstr "Télécharger le fichier d'attachement."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:657
+msgid "File name"
+msgstr "Nom de fichier"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:662
+msgid "File size"
+msgstr "Taille du fichier"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:685
+msgid "No file selected"
+msgstr "Aucun fichier sélectionné"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:685
+msgid "Add File"
+msgstr "Ajouter le fichier"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:697
+#: admin/class-woocommerce-product-attachment-pro--admin.php:941
+msgid "Show on Product page"
+msgstr "Afficher la page produit"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:698
+#: admin/class-woocommerce-product-attachment-pro--admin.php:942
+msgid "On Product Details page show attchment."
+msgstr "Sur la page Détails du produit montrent attchment."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:703
+#: admin/class-woocommerce-product-attachment-pro--admin.php:800
+#: admin/class-woocommerce-product-attachment-pro--admin.php:946
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1026
+msgid "Yes"
+msgstr "Oui"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:705
+#: admin/class-woocommerce-product-attachment-pro--admin.php:802
+#: admin/class-woocommerce-product-attachment-pro--admin.php:947
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1027
+msgid "No"
+msgstr "Non"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:716
+#: admin/class-woocommerce-product-attachment-pro--admin.php:959
+msgid "Variants"
+msgstr "Variantes"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:734
+#: admin/class-woocommerce-product-attachment-pro--admin.php:975
+msgid "Order status"
+msgstr "Statut de la commande"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:735
+#: admin/class-woocommerce-product-attachment-pro--admin.php:976
+msgid ""
+"Select order status for which the attachment(s) will be visible.Leave "
+"unselected to apply to all."
+msgstr ""
+"Select order status for which the attachment(s) will be visible.Leave "
+"unselected to apply to all."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:743
+#: admin/class-woocommerce-product-attachment-pro--admin.php:982
+msgid "Completed"
+msgstr "Terminé"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:750
+#: admin/class-woocommerce-product-attachment-pro--admin.php:987
+msgid "On Hold"
+msgstr "En attente"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:757
+#: admin/class-woocommerce-product-attachment-pro--admin.php:992
+msgid "Pending payment"
+msgstr "En attente de paiement"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:764
+#: admin/class-woocommerce-product-attachment-pro--admin.php:997
+msgid "Processing"
+msgstr "En traitement"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:771
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1002
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:778
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1007
+msgid "Failed"
+msgstr "Échoué"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:785
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1012
+msgid "Refunded"
+msgstr "Remboursé"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:794
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1021
+msgid "Set expire Date "
+msgstr "Date d'expiration définie"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:795
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1022
+msgid "Expires?"
+msgstr "Expire?"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:811
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1034
+msgid "Set Date"
+msgstr "Régler la date"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:812
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1035
+msgid ""
+"If an order is placed after the selected date, the attachments will be no "
+"longer visible for download"
+msgstr ""
+"Si une commande est placée après la date sélectionnée, les pièces jointes ne "
+"seront plus visibles pour téléchargement"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:827
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1049
+msgid "Add row"
+msgstr "Ajouter une rangée"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:828
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1050
+msgid "Remove row"
+msgstr "Supprimer la ligne"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:889
+msgid "You can type a short description."
+msgstr "Vous pouvez taper une courte description."
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1064
+msgid "Add Attchment"
+msgstr "Ajouter attchment"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1182
+msgid "This Attachment Expire Date Is :: "
+msgstr "Cette date d'expiration est:"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1183
+#: public/class-woocommerce-product-attachment-pro--public.php:369
+msgid "This Attachment Expired"
+msgstr "Cette pièce jointe a expiré"
+
+#: admin/class-woocommerce-product-attachment-pro--admin.php:1184
+msgid "This Attachment Is Never Expire"
+msgstr "Cette pièce n'est jamais expirée"
+
+#: admin/js/pro-wcpoa-input.js:111 admin/js/pro-wcpoa-input.js:169
+msgid "repeater"
+msgstr "répétiteur"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:2587
+msgid "unload"
+msgstr "décharger"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:3816
+msgid "date_picker"
+msgstr "sélecteur de date"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4131
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4145
+msgid "media"
+msgstr "médias"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4330
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4406
+msgid "image"
+msgstr "image"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4678
+msgid "restricted"
+msgstr "limité"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4773
+msgid "expand_details"
+msgstr "Détails de l'extension"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:4774
+msgid "collapse_details"
+msgstr "Collapse_details"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5302
+msgid "validation_successful"
+msgstr "Validation_successful"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5382
+msgid "validation_failed"
+msgstr "validation échouée"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5449
+msgid "validation_failed_1"
+msgstr "Validation_failed_1"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5453
+msgid "validation_failed_2"
+msgstr "Validation_failed_2"
+
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5956
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5984
+#: admin/js/woocommerce-product-attachment-pro--admin.js:5985
+msgid "file"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:20
+msgid "Free Version"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:11
+msgid "Important link"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:16
+msgid "Plugin documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:20
+msgid "Support platform"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:24
+msgid "Suggest A Feature"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:28
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:36
+msgid "OUR POPULAR PLUGINS"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:41
+msgid "Advanced Flat Rate Shipping Method"
+msgstr "Méthode d'expédition à tarif forfaitaire avancé"
+
+#: admin/partials/header/plugin-sidebar.php:45
+msgid "WooCommerce Conditional Product Fees"
+msgstr "Frais de produits conditionnels WooCommerce"
+
+#: admin/partials/header/plugin-sidebar.php:49
+msgid "Advance Menu Manager"
+msgstr "Advance Menu Manager"
+
+#: admin/partials/header/plugin-sidebar.php:53
+msgid "Woo Enhanced Ecommerce Analytics Integration"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:57
+msgid "Advanced Product Size Charts"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:61
+msgid "WooCommerce Blocker – Prevent Fake Orders"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:67
+#: admin/partials/header/plugin-sidebar.php:89
+msgid "VIEW ALL"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:73
+msgid "OUR POPULAR THEMES"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:77
+msgid "Appify – Multipurpose WordPress Theme"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:80
+msgid "Brand Agency – WordPress Theme for Agency"
+msgstr "Agence de la marque - WordPress Theme for Agency"
+
+#: admin/partials/header/plugin-sidebar.php:83
+msgid "Meraki - WordPress Theme for Resume"
+msgstr "Meraki - Thème WordPress pour CV"
+
+#: public/class-woocommerce-product-attachment-pro--public.php:243
+#: public/class-woocommerce-product-attachment-pro--public.php:367
+msgid "Download"
+msgstr "Télécharger"
+
+#: public/class-woocommerce-product-attachment-pro--public.php:244
+#: public/class-woocommerce-product-attachment-pro--public.php:368
+msgid "This Attachment Expiry Date :: "
+msgstr "Cette Date d'expiration de l'annexe:"
+
+#: public/class-woocommerce-product-attachment-pro--public.php:245
+msgid "This Attachment Expired."
+msgstr "Cette pièce jointe a expiré."
+
+#: public/class-woocommerce-product-attachment-pro--public.php:246
+msgid "This Attachment Never Expires."
+msgstr "Cette pièce jointe n'excède jamais."
+
+#: public/class-woocommerce-product-attachment-pro--public.php:370
+msgid "This Attachment Never Expires"
+msgstr "Cette pièce jointe n'excède jamais"
